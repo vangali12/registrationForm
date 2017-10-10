@@ -1,0 +1,12 @@
+* {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.wrapper {
+	border: 1px solid black;
+	margin-left: 300px;
+	margin-right: 300px;
+	padding: 0px 0px 10px 0px;
+}
+
